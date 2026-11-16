@@ -78,8 +78,8 @@ Para rodar o jogo, você precisará de um compilador C (`gcc` ou `clang`) e das 
 Clone o repositório, entre na pasta do código-fonte e compile com o `make`:
 
 ```bash
-git clone https://github.com
-cd ilha-c
+git clone https://github.com/VRModsOficial/Terra-selvagem
+cd Terra-selvagem
 make
 ./ilha
 ```
